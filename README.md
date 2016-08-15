@@ -1,2 +1,2 @@
 # test-fairly-empty
-This is a test repository with few commits
+This is a test repository with few commits.
